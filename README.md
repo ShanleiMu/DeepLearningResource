@@ -2,6 +2,16 @@
 Deep learning resource
 
 ## Classic Technique
+* Deep Learning
+    * [Hung-yi Lee 深度学习](https://www.bilibili.com/video/av48285039) - 李宏毅 深度学习19（完整版）国语
+* Generative Adversarial Network
+    * [Hung-yi Lee 对抗生成网络](https://www.bilibili.com/video/av24011528) - 李宏毅对抗生成网络(GAN)国语教程(2018)
+
+* Reinforcement Learning
+    * [Hung-yi Lee 强化学习](https://www.bilibili.com/video/av24724071) - 李宏毅深度强化学习(国语)课程(2018)
+* Graphical Model
+    * [概率图模型基础](https://www.bilibili.com/video/av33545406) - 概率图模型基础，白板推导系列。
+
 
 ## Advanced Technique
 
@@ -13,6 +23,12 @@ Deep learning resource
     * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - 免费的前5章
 
 ## Foundation of Mathematics
+* Foundation of Data Science - 数据科学基础，图灵奖得主John Hopcroft等人撰写的专著。
+* Linear Algebra
+    * [Hung-yi Lee 线性代数](https://www.bilibili.com/video/av31780632) - 台大李宏毅(国语)线性代数课程(2018)
+    * [MIT 线性代数](https://www.bilibili.com/video/av15463995) -  MIT 18.06 Linear Algebra, Spring 2005 中英双语字幕
+* 
+
 
 ## Research Tools
 * Gnuplot
