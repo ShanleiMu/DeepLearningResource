@@ -19,7 +19,7 @@ Deep learning resource
 ## Advanced Technique
 * Graph Neural Network
 * Self-Supervised Learning
-    * [Yan Lecun：自监督学习] - 视频搬运(https://www.bilibili.com/video/av88129135/) Slides(https://drive.google.com/file/d/1r-mDL4IX_hzZLDBKp8_e8VZqD7fOzBkF/view)
+    * [Yan Lecun：自监督学习] - [视频搬运](https://www.bilibili.com/video/av88129135/) [Slides](https://drive.google.com/file/d/1r-mDL4IX_hzZLDBKp8_e8VZqD7fOzBkF/view)
 * Causal Model
     * [因果模型概览](https://plato.stanford.edu/entries/causal-models/) -《Causal Models | Stanford Encyclopedia of Philosophy》
     * [《统计学因果推理：初级读本》样章(预览)](http://bayes.cs.ucla.edu/PRIMER/) -《Causal Inference in Statistics: A Primer》by Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
