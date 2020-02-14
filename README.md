@@ -1,5 +1,5 @@
 # DeepLearningResource
-Deep learning resource
+*Deep learning resource. Your contributions are always welcome!* 
 
 ## Classic Technique
 * Deep Learning
