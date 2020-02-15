@@ -25,6 +25,8 @@
     * [《统计学因果推理：初级读本》样章(预览)](http://bayes.cs.ucla.edu/PRIMER/) -《Causal Inference in Statistics: A Primer》by Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
     * [《因果推理原理：基础与学习算法》](https://mitpress.mit.edu/books/elements-causal-inference) -《Elements of Causal Inference - Foundations and Learning Algorithms | The MIT Press》by Jonas Peters, Dominik Janzing and Bernhard Schölkopf (MIT 2017) [下载](https://www.dropbox.com/s/gkmsow492w3oolt/11283.pdf?dl=1) [pdf](https://pan.baidu.com/s/1RzvyuVnMjSfRHKRKmNd0Yg)
     * [Causality for Machine Learning](https://arxiv.org/abs/1911.10500) - 关于因果关系在机器学习的综述，by 德国著名机器学者Bernhard Schölkopf
+* [Capsule Network]()
+
 ## Recommender System
 * [LDA及其在推荐系统中的应用](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.rosetta.ai%2Fa-deep-dive-into-latent-dirichlet-allocation-lda-and-its-applications-on-recommender-system-e2e8ea5e661c) - 《A Deep Dive into Latent Dirichlet Allocation (LDA) and Its Applications on Recommender System》by Kung-Hsiang, Huang
 
