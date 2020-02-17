@@ -70,3 +70,4 @@ designed for CPU-GPU hybrid architecture
     * [Vim 总结](https://zhuanlan.zhihu.com/p/76787950)- 学会这21条，你离 Vim 大神就不远了！
 * [Draw.io](https://github.com/jgraph/drawio) - Draw.io在线图表制作网站.
 * [DL相关会议录用率](https://github.com/lixin4ever/Conference-Acceptance-Rate)
+* [论文模板与自查清单](https://www.aje.com/dist/docs/Developmental_Editing_Report_Template_2015.pdf) - Developmental Editing Report
