@@ -9,10 +9,10 @@
 - **Limitations of routing-by-agreement based capsule networks.** *.* 
 
 ## Application
-- **Directional and Explainable Serendipity Recommendation.** *.* WWW 2020？  [paper](https://cis.temple.edu/~jiewu/research/publications/Publication_files/jiang_www_2020.pdf)
 - **Capsule Graph Neural Network.** *Zhang Xinyi, Lihui Chen.* ICLR 2019  [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
 - **Graph Capsule Convolutional Neural Networks.** *Saurabh Verma, Zhi-Li Zhang.* [paper](https://arxiv.org/abs/1805.08090)
-- **A Capsule Network for Recommendation and Explaining What You Like and Dislike.** *Chenliang Li, Cong Quan, Li Peng, Yunwei Qi, Yuming Deng, Libing Wu.* SIGIR 2019  [paper]()
+- **Directional and Explainable Serendipity Recommendation.** *.* WWW 2020？  [paper](https://cis.temple.edu/~jiewu/research/publications/Publication_files/jiang_www_2020.pdf)
+- **A Capsule Network for Recommendation and Explaining What You Like and Dislike.** *Chenliang Li, Cong Quan, Li Peng, Yunwei Qi, Yuming Deng, Libing Wu.* SIGIR 2019  [paper](https://arxiv.org/abs/1907.00687)
 - **Multi-Interest Network with Dynamic Routing for Recommendation at Tmall.** *Chao Li, Zhiyuan Liu, Mengmeng Wu, Yuchi Xu, Huan Zhao, Pipei Huang, Guoliang Kang, Qiwei Chen, Wei Li, Dik Lun Lee.* CIKM 2019  [paper](https://arxiv.org/abs/1904.08030)
 - **Information Aggregation for Multi-Head Attention with Routing-by-Agreement.** *Jian Li, Baosong Yang, Zi-Yi Dou, Xing Wang, Michael R. Lyu, Zhaopeng Tu.* NAACL 2019  [paper]()
 - **A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization.** *Dai Quoc Nguyen, Thanh Vu, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Q. Phung.* NAACL 2019  [paper]()
