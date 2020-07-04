@@ -1,7 +1,13 @@
 # DeepLearningResource
 *Deep learning resource. Your contributions are always welcome!* 
 
+## [Conference Deadlines](https://sites.google.com/site/lyangwww/resources)
+
 ## Classic Technique
+* Machine Learning
+    * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (强烈推荐)
+    * 机器学西（西瓜书） - 周志华
+
 * Deep Learning
     * [Hung-yi Lee 深度学习](https://www.bilibili.com/video/av48285039) - 李宏毅深度学习（完整版）课程（2019）
     * [CMU课程：《深度学习进阶(2020)》](https://andrejristeski.github.io/10707-S20/)

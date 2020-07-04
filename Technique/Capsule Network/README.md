@@ -15,7 +15,7 @@
 - **A Capsule Network for Recommendation and Explaining What You Like and Dislike.** *Chenliang Li, Cong Quan, Li Peng, Yunwei Qi, Yuming Deng, Libing Wu.* SIGIR 2019  [paper](https://arxiv.org/abs/1907.00687)
 - **Multi-Interest Network with Dynamic Routing for Recommendation at Tmall.** *Chao Li, Zhiyuan Liu, Mengmeng Wu, Yuchi Xu, Huan Zhao, Pipei Huang, Guoliang Kang, Qiwei Chen, Wei Li, Dik Lun Lee.* CIKM 2019  [paper](https://arxiv.org/abs/1904.08030)
 - **Information Aggregation for Multi-Head Attention with Routing-by-Agreement.** *Jian Li, Baosong Yang, Zi-Yi Dou, Xing Wang, Michael R. Lyu, Zhaopeng Tu.* NAACL 2019  [paper]()
-- **A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization.** *Dai Quoc Nguyen, Thanh Vu, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Q. Phung.* NAACL 2019  [paper]()
+- **A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization.** *Dai Quoc Nguyen, Thanh Vu, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Q. Phung.* NAACL 2019  [paper](https://arxiv.org/abs/1808.04122)
 - **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Xi Chen, Wei Zhang, Huajun Chen.* EMNLP 2018 [paper]https://www.aclweb.org/anthology/D18-1120.pdf)
 - **CapDRL: A Deep Capsule Reinforcement Learning for Movie Recommendation.** *	Chenfei Zhao, Lan Hu.* PRICAI 2019  [paper]()
 - **Few-Shot Text Classification with Induction Network.** *Ruiying Geng, Binhua Li, Yongbin Li, Yuxiao Ye, Ping Jian, Jian Sun.* 2019 [paper]()
